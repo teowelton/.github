@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Student at Rowland Hall High School (2025)
-# Programmer, I know C++, Python, C, and a few others
-# Pronouns: He/Him
-# You can contact me via Discord and Github
-# I use Arch, Btw
+- Student at Rowland Hall High School (2025)
+- Programmer, I know C++, Python, C, and a few others
+- Pronouns: He/Him
+- You can contact me via Discord and Github
+- I use Arch, Btw
 
 ---
 
