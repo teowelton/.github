@@ -5,7 +5,7 @@ I have been a self-taught developer for about 5 years. I have learned how to cod
 
 *   🌍  I'm based in Salt Lake City, Utah, United States
 *   ✉️  You can contact me at [teowelton@gmail.com](mailto:teowelton@gmail.com)
-*   🧠  I'm learning a new Javascript Framework, Solid.Js!
+*   🧠  I'm learning something, probably!
 *   🤝  I'm open to collaborating on Anything, as long as it interests me!
 *   ⚡  I use arch btw
 
