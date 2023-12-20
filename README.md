@@ -33,7 +33,8 @@ I have been a self-taught developer for about 5 years. I have learned how to cod
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DragonDev07&theme=tokyonight)](https://github.com/DragonDev07/)
 
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DragonDev07&theme=tokyo-night)](https://github.com/DragonDev07)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dragondev07&theme=tokyonight)](https://github.com/DragonDev07)
 
+[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=DragonDev07&theme=tokyo-night)](https://github.com/DragonDev07)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonDev07&theme=tokyonight)](https://github.com/dragondev07)
