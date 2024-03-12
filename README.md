@@ -5,16 +5,12 @@
 
 *   🌍  I'm based in Salt Lake City, Utah, United States
 *   ✉️  You can contact me at [teowelton@gmail.com](mailto:teowelton@gmail.com)
-*   ⚡  I use arch btw
+*   ⚡  I use Arch btw
 
 <div align="center">
 
 [![DragonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonDev07&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/DragonDev07)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=DragonDev07&theme=catppuccin-mocha)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DragonDev07&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/dragondev07)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=dragondev07&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/DragonDev07)
 
 </div>
