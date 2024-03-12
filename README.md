@@ -9,8 +9,8 @@
 
 <div align="center">
 
-[![DragonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonDev07&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/DragonDev07)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=DragonDev07&theme=catppuccin-mocha)](https://git.io/streak-stats)
+||||
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| [![DragonDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=DragonDev07&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5)](https://github.com/DragonDev07) | [![GitHub Streak](https://streak-stats.demolab.com?user=DragonDev07&theme=catppuccin-mocha)](https://git.io/streak-stats) | <!--START_SECTION:waka--><!--END_SECTION:waka--> |
 
 </div>
