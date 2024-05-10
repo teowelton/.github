@@ -16,8 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-desktop   3 mins          ████████████████████████▒   97.84 %
-Java      0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+Java   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
