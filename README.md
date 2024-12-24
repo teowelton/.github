@@ -16,9 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-C++          1 hr 26 mins    █████████████████████░░░░   83.50 %
-Meson        16 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
