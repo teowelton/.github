@@ -16,7 +16,9 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   4 mins          █████████████████████████   100.00 %
+Java              28 mins         ███████████████▒░░░░░░░░░   61.37 %
+Java Properties   9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.90 %
+Groovy            8 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
 ```
 
 <!--END_SECTION:waka-->
