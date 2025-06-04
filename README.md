@@ -16,9 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       8 mins          ████████████████████████▓   98.52 %
-C++        0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
